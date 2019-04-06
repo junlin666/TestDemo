@@ -12,6 +12,7 @@ public class Application {
 		//默认的
 		//SpringApplication.run(Application.class, args);
 		
+		//李俊林666  俊林666 李俊林 李俊林
 //博客地址: https://blog.csdn.net/u011870280/article/details/80025387
         SpringApplication springApplication = new SpringApplication(Application.class);
         springApplication.setBannerMode(Mode.LOG);
